@@ -305,11 +305,11 @@ for i, prompt in enumerate(test_prompts, 1):
     if think_match:
         thinking = think_match.group(1).strip()
         answer   = re.sub(r"<[^>]+>", "", think_match.group(2)).strip()
-        print(f"✅ <think> tags PRESENT — thinking ability retained!")
+        print(f"ok, <think> tags PRESENT — thinking ability retained!")
         print(f"\n[THINKING — first 300 chars]\n{thinking[:300]}...")
         print(f"\n[FINAL ANSWER]\n{answer}")
     else:
-        print("❌ No <think> tags — check output:")
+        print("No <think> tags — check output:")
         print(re.sub(r"<[^>]+>", "", raw).strip()[:400])
 
 # ── Merge + push ──────────────────────────────────────────────────────────────
