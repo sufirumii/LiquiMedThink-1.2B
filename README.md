@@ -3,6 +3,12 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Rumiii%2FLiquiMedThink1.2B-yellow)](https://huggingface.co/Rumiii/LiquiMedThink1.2B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://huggingface.co/Rumiii/LiquiMedThink1.2B)
 
+
+<img width="1200" height="900" alt="liquimedthink_summary" src="https://github.com/user-attachments/assets/a6f9fb7a-0694-43fb-8441-9a09745da268" />
+
+
+
+
 A fine-tuned version of [LiquidAI/LFM2.5-1.2B-Thinking](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking) adapted for medical chain-of-thought reasoning. The model retains the base model's explicit reasoning traces while developing clinical domain knowledge through supervised fine-tuning on a purpose-built medical reasoning dataset.
 
 ---
