@@ -1,6 +1,6 @@
 # LiquiMedThink 1.2B
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Rumiii%2FLiquiMedThink1.2B-yellow)](https://huggingface.co/Rumiii/LiquiMedThink1.2B)
+[![Model on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/Rumiii/LiquiMedThink1.2B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://huggingface.co/Rumiii/LiquiMedThink1.2B)
 
 
